@@ -1,2 +1,4 @@
 Olá meu nome é Lucas
 nova linha heeh
+
+<vamos supor que aqui tenha um código de cadastrar um novo usuário>
